@@ -1,0 +1,21 @@
+#test-editor {
+    height: 100vh;
+    display: flex;
+}
+
+#test-editor #test-editor-toolbar h1 {
+    margin: 10px;
+    font-weight: 300;
+}
+
+
+#test-editor #test-editor-toolbar {
+    background-color: #800080;
+    width: 300px;
+    color: white;
+}
+
+#test-editor #editor {
+    flex: 1;
+    overflow: hidden;
+}
